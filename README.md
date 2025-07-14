@@ -1,2 +1,2 @@
 # shared
-Files I the public share to show data, network log, etc. 
+Files I share with the public to show data, network log, etc. 
